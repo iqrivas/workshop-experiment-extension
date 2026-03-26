@@ -1,3 +1,3 @@
 description = "Say hi to the user"
 
-prompt = """What is your name?"""
+prompt = """Write a haiku about Pokemon and say hi to the user."""
